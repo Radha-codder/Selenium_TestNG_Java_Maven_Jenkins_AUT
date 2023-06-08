@@ -1,0 +1,18 @@
+{
+  "tc01": {
+    "Username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "tc02": {
+    "Username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "tc03": {
+    "Username": "problem_user",
+    "password": "secret_sauce"
+  },
+  "tc04": {
+    "Username": "performance_glitch_user",
+    "password": "secret_sauce"
+  }
+}
